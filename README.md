@@ -1,3 +1,7 @@
+                                   
+                                   NAME: Chandrasekar S
+                                   REG NO. 212222230025
+                                   
 # Fitting Poisson  distribution
 # Aim : 
 
